@@ -20,6 +20,7 @@
 ## Omissions from Beta
 * Clone records
 * Parent Jobs / Invoices
+* Job numbering by client
 
 ## Known Issues
 * Click to create task on gantt view only works on mouseup (no click and drag)
