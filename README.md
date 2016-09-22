@@ -20,6 +20,8 @@
 
 ## Omissions from Beta
 * Parent Jobs / Invoices
+
+## Omissions
 * Job numbering by client
 
 ## Known Issues
