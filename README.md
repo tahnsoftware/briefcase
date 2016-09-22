@@ -16,9 +16,9 @@
 * Xero purchases
 * Multi currency support
 * Self install and setup for cloud users
+* Template feature now replaces clone / reassign
 
 ## Omissions from Beta
-* Clone records
 * Parent Jobs / Invoices
 * Job numbering by client
 
