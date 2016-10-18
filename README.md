@@ -1,4 +1,4 @@
-# briefcase6
+# Briefcase v6.x
 
 ## New Features
 * New look
