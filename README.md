@@ -1,4 +1,4 @@
-# Briefcase v6.x
+# Briefcase
 
 Thanks for visiting us on GitHub! This repository is for public access, you can submit bugs and track our progress on issues by clicking the issues tab above. You can also view details for specific versions here by clicking the releases link.
 
